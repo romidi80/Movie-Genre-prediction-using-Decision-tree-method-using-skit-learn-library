@@ -9,4 +9,4 @@ Additionally, an essential facet of this project is the analysis of the features
 
 To sum up, the project's primary goal is to address data gaps by employing predictive techniques from the scikit-learn library. This encompasses exploring various imputation methods, evaluating different models, and identifying the most influential feature for predicting movie genres. The result of these efforts will contribute to enhanced dataset completion and informed genre predictions.
 
-![image](https://github.com/romidi80/Movie-Genre-prediction-using-Decision-tree-method-using-skit-learn-library/assets/89667194/6bcd39c2-100b-4166-98cc-90ad3c3f37de)
+![image](https://github.com/romidi80/Movie-Genre-prediction-using-Decision-tree-method-using-skit-learn-library/assets/89667194/fc6672ee-ab32-4770-b440-40fbb2713913)
